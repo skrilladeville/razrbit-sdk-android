@@ -4,7 +4,6 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -25,7 +24,7 @@ import android.util.Log;
 
 import com.luxstack.razrbit.RazrbitCallParams;
 
-public class RAZRBITCallAsyncHandler extends AsyncTask<RazrbitCallParams, Void, String> {
+public class RazrbitCallAsyncHandler extends AsyncTask<RazrbitCallParams, Void, String> {
 
 	private 
 		RazrbitCallParams.FnRazrbitCallback m_fnCallback = null;
@@ -59,7 +58,7 @@ public class RAZRBITCallAsyncHandler extends AsyncTask<RazrbitCallParams, Void, 
 		
 	@Override
 	protected String doInBackground(RazrbitCallParams... params) {
-		// TODO Auto-generated method stub
+
         Log.d("trial", "doInBackground starts");
 		RazrbitCallParams razrbitCallParams = params[0];
 		

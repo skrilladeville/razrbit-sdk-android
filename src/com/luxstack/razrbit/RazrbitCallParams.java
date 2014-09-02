@@ -23,7 +23,7 @@ public class RazrbitCallParams {
 		Boolean m_bResultTypeIsNvp;
 		
 	public RazrbitCallParams (String strUrl, String strAppId, String strAppSecret, List<NameValuePair> listParams, Boolean bResultTypeIsNvp, FnRazrbitCallback fnCallback){
-        Log.d("trial", "RazrbitCallParams constructor starts!!!");
+        Log.d("trial", "RazrbitCallParams constructor");
 		m_strUrl = new String(strUrl);
 		m_fnCallback = fnCallback;
 		m_bResultTypeIsNvp = bResultTypeIsNvp;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Razrbit - Android SDK and sample</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="functionNames">
+		<item>walletCreateNewAddress</item>
+		<item>walletSendAmount</item>
+		<item>walletGetBalanceFromAddress</item>
+		<item>explorerBlock</item>
+		<item>explorerTransaction</item>
+		<item>explorerAddress</item>
+		<item>explorerAddressUnspentOutputs</item>
+		<item>networkGetDifficulty</item>
+		<item>networkPushTransaction</item>
+		<item>marketsPrice</item>
+		<item>marketsDayPrice</item>
+		<item>marketsHistoricalPrice</item>
+		<item>notificationsAddress</item>
+		<item>notificationsBlock</item>
+		<item>notificationsTransaction</item>
+	</string-array>
+    
+</resources>
