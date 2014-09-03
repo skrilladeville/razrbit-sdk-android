@@ -7,7 +7,7 @@ Android |
 [PHP](https://github.com/LUXSTACK/razrbit-sdk-php) | 
 [Ruby](https://github.com/LUXSTACK/razrbit-sdk-ruby)
 
-**[Razrbit](https://www.razrbit.com) is a powerful API that helps developers quickly build and manage Bitcoin applications without creating and maintaining complicated block chain infrastructure.**
+**[Razrbit](https://razrbit.com) is a powerful API that helps developers quickly build and manage Bitcoin applications without creating and maintaining complicated block chain infrastructure.**
 
 # Razrbit SDK for Android (Beta)
 
