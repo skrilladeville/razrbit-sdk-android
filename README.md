@@ -99,7 +99,6 @@ void walletGetBalanceFromAddress(String strAddress, RazrbitCallParams.FnRazrbitC
 ```
 Returns the balance of the given address in bits.
 
-```
 
 ### Explorer
 ```
