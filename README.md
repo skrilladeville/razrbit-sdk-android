@@ -7,9 +7,9 @@ Android |
 [PHP](https://github.com/LUXSTACK/razrbit-sdk-php) | 
 [Ruby](https://github.com/LUXSTACK/razrbit-sdk-ruby)
 
-**[Razrbit](https://luxstack.com) Bitcoin Platform and SDKs — build, test and scale bitcoin apps faster with Razrbit. Plug in our powerful SDKs to supercharge your bitcoin toolbox.**
+**[LUXSTACK](https://luxstack.com) Bitcoin Platform and SDKs — build, test and scale bitcoin apps faster. Plug in our powerful SDKs to supercharge your bitcoin toolbox.**
 
-# Razrbit SDK for Android (Beta)
+# LUXSTACK SDK for Android (Beta)
 
 ## Installation
 
@@ -181,7 +181,7 @@ Feel free to request a feature and make suggestions for our [product team](mailt
 
 Copyright 2012-2014 LUXSTACK Inc. Razrbit is a trademark maintained by LUXSTACK Inc.
 
-# Razrbit Bitcoin SDKs for other platforms
+# LUXSTACK Bitcoin SDKs for other platforms
 
 * Android
 * [iOS](https://github.com/LUXSTACK/razrbit-sdk-ios)
