@@ -12,7 +12,7 @@ import com.luxstack.razrbit.RazrbitCallParams;
 
 public class Razrbit {
 
-	public static final String RAZRBIT_PROTOCOL_HOST_PREFIX = "https://api.razrbit.com";
+	public static final String RAZRBIT_PROTOCOL_HOST_PREFIX = "https://api.luxstack.com";
 	
 	private
 		String m_strAppId;
