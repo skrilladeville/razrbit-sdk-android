@@ -9,7 +9,7 @@ Android |
 
 **[LUXSTACK](https://luxstack.com) Bitcoin Platform and SDKs — build, test and scale bitcoin apps faster. Plug in our powerful SDKs to supercharge your bitcoin toolbox.**
 
-# LUXSTACK SDK for Android (Beta)
+# Razrbit SDK for Android (Beta)
 
 ## Installation
 
