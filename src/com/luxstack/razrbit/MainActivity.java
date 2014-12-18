@@ -15,7 +15,7 @@ import android.widget.Spinner;
 
 public class MainActivity extends Activity implements RazrbitCallParams.FnRazrbitCallback,OnItemSelectedListener{
 
-	private Razrbit m_razrbit = new Razrbit("", "");
+	private Razrbit m_razrbit = new Razrbit("", ""); //ADD YOUR APPID AND APPSECRET HERE!
 
 	public void onItemSelected(AdapterView<?> arg0, View view,
 			int position, long row_id) {
